@@ -7,4 +7,3 @@ Git is free software.
 git log --pretty
 
 git show
-
